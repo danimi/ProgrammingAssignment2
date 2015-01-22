@@ -1,4 +1,4 @@
-# These two function use to reduce a computation by caching the inverse of a matrix instead to repeatedly compute it.
+# These two functions use to reduce a computation by caching the inverse of a matrix instead to repeatedly compute it.
 
 #Function makeCacheMatrix() creates a special "matrix" object that can cache its inverse.
 #This special "matrix" object is a list containing a function to 
